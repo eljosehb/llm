@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "customer_id": "CLI-001",
+      "name": "Cliente Demo Uno",
+      "email": "cliente.uno@example.test",
+      "orders": [
+        {
+          "order_id": "PED-1001",
+          "status": "En preparación",
+          "estimated_delivery": "2026-09-17 19:10",
+          "items": [
+            "Spicy Tuna Mayo",
+            "Kinoko Teriyaki"
+          ],
+          "authorized_actions": [
+            "consultar estado",
+            "escalar a agente"
+          ]
+        }
+      ]
+    },
+    {
+      "customer_id": "CLI-002",
+      "name": "Cliente Demo Dos",
+      "email": "cliente.dos@example.test",
+      "orders": [
+        {
+          "order_id": "PED-1002",
+          "status": "Entregado",
+          "estimated_delivery": "2026-09-17 17:45",
+          "items": [
+            "Salmon Queso Crema",
+            "Crispy Char Siu"
+          ],
+          "authorized_actions": [
+            "consultar estado",
+            "iniciar escalamiento"
+          ]
+        }
+      ]
+    }
+  ]
+}
