@@ -1,0 +1,73 @@
+{
+  "faqs": [
+    {
+      "id": "FAQ-001",
+      "question": "¿Qué sabores de onigiri maneja OnigiriDanshi?",
+      "answer": "El menú cargado en esta demostración incluye Spicy Tuna Mayo, Salmon Queso Crema, Chicken Teriyaki, Kinoko Teriyaki y Crispy Char Siu.",
+      "keywords": [
+        "sabores",
+        "sabor",
+        "menú",
+        "menu",
+        "opciones",
+        "onigiris"
+      ]
+    },
+    {
+      "id": "FAQ-002",
+      "question": "¿Qué información tienen sobre alérgenos?",
+      "answer": "FoodLabsAI solo puede informar los alérgenos que estén documentados en el catálogo. Si la composición de una salsa o ingrediente preparado no está detallada, debe indicarlo y no asumir que el producto es seguro para una alergia.",
+      "keywords": [
+        "alérgeno",
+        "alergeno",
+        "alérgenos",
+        "alergenos",
+        "alergia",
+        "alergias",
+        "pescado",
+        "lácteos",
+        "lacteos",
+        "soya"
+      ]
+    },
+    {
+      "id": "FAQ-003",
+      "question": "¿Cómo debo conservar los onigiris?",
+      "answer": "La información oficial de conservación todavía no está documentada en esta demostración. FoodLabsAI debe ofrecer escalar la consulta a un agente en lugar de inventar instrucciones.",
+      "keywords": [
+        "conservar",
+        "conservación",
+        "conservacion",
+        "refrigerar",
+        "refrigerador",
+        "guardar",
+        "caducidad"
+      ]
+    },
+    {
+      "id": "FAQ-004",
+      "question": "¿Se puede cancelar o cambiar un pedido?",
+      "answer": "Los cambios o cancelaciones de pedidos son simulados en este proyecto. FoodLabsAI puede orientar al cliente, pero no modifica pedidos ni autoriza reembolsos.",
+      "keywords": [
+        "cancelar",
+        "cancelación",
+        "cancelacion",
+        "cambiar",
+        "cambio",
+        "reembolso"
+      ]
+    },
+    {
+      "id": "FAQ-005",
+      "question": "¿Cómo contacto a un agente?",
+      "answer": "FoodLabsAI puede ofrecer un escalamiento simulado, pero no crea tickets reales ni conecta llamadas.",
+      "keywords": [
+        "agente",
+        "persona",
+        "humano",
+        "asesor",
+        "escalar"
+      ]
+    }
+  ]
+}

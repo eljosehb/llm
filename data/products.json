@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "product_id": "ONI-001",
+      "name": "Spicy Tuna Mayo",
+      "category": "onigiri",
+      "description": "Onigiri de OnigiriDanshi con relleno de atún y mayonesa spicy.",
+      "price_mxn": 80,
+      "ingredients": [
+        "medallón de atún",
+        "mayonesa spicy"
+      ],
+      "allergens": [
+        "pescado"
+      ],
+      "allergen_note": "La composición de la mayonesa spicy no ha sido detallada. No asumir alérgenos adicionales.",
+      "dietary_tags": [
+        "picante"
+      ],
+      "keywords": [
+        "spicy tuna mayo",
+        "tuna",
+        "atún",
+        "atun",
+        "mayonesa",
+        "mayo",
+        "spicy",
+        "picante"
+      ]
+    },
+    {
+      "product_id": "ONI-002",
+      "name": "Salmon Queso Crema",
+      "category": "onigiri",
+      "description": "Onigiri de OnigiriDanshi con salmón a la plancha, queso crema y soya.",
+      "price_mxn": 80,
+      "ingredients": [
+        "salmón a la plancha",
+        "queso crema",
+        "soya"
+      ],
+      "allergens": [
+        "pescado",
+        "lácteos",
+        "soya"
+      ],
+      "allergen_note": "Los alérgenos indicados se basan únicamente en los ingredientes proporcionados.",
+      "dietary_tags": [],
+      "keywords": [
+        "salmon queso crema",
+        "salmón",
+        "salmon",
+        "queso crema",
+        "soya",
+        "pescado"
+      ]
+    },
+    {
+      "product_id": "ONI-003",
+      "name": "Chicken Teriyaki",
+      "category": "onigiri",
+      "description": "Onigiri de OnigiriDanshi con pechuga de pollo en salsa teriyaki.",
+      "price_mxn": 80,
+      "ingredients": [
+        "pechuga de pollo en salsa teriyaki"
+      ],
+      "allergens": [],
+      "allergen_note": "La composición de la salsa teriyaki no ha sido detallada. No asumir alérgenos adicionales.",
+      "dietary_tags": [],
+      "keywords": [
+        "chicken teriyaki",
+        "chicken",
+        "pollo",
+        "pechuga",
+        "teriyaki"
+      ]
+    },
+    {
+      "product_id": "ONI-004",
+      "name": "Kinoko Teriyaki",
+      "category": "onigiri",
+      "description": "Onigiri de OnigiriDanshi con mezcla de hongos en salsa teriyaki.",
+      "price_mxn": 80,
+      "ingredients": [
+        "mezcla de hongos en salsa teriyaki"
+      ],
+      "allergens": [],
+      "allergen_note": "La composición de la salsa teriyaki no ha sido detallada. No asumir alérgenos adicionales ni clasificar el producto como vegetariano o vegano sin confirmación.",
+      "dietary_tags": [],
+      "keywords": [
+        "kinoko teriyaki",
+        "kinoko",
+        "hongos",
+        "hongo",
+        "mushroom",
+        "mushrooms",
+        "teriyaki"
+      ]
+    },
+    {
+      "product_id": "ONI-005",
+      "name": "Crispy Char Siu",
+      "category": "onigiri",
+      "description": "Onigiri de OnigiriDanshi con carne molida de cerdo frita en salsa char siu.",
+      "price_mxn": 80,
+      "ingredients": [
+        "carne molida de cerdo frita en salsa char siu"
+      ],
+      "allergens": [],
+      "allergen_note": "La composición de la salsa char siu no ha sido detallada. No asumir alérgenos adicionales.",
+      "dietary_tags": [],
+      "keywords": [
+        "crispy char siu",
+        "char siu",
+        "cerdo",
+        "pork",
+        "crispy",
+        "molida de cerdo"
+      ]
+    }
+  ]
+}

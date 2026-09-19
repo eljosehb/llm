@@ -1,0 +1,28 @@
+{
+  "sauces": [
+    {
+      "sauce_id": "SAL-001",
+      "name": "Anguila",
+      "ingredients": null,
+      "keywords": ["anguila", "salsa de anguila"]
+    },
+    {
+      "sauce_id": "SAL-002",
+      "name": "Soya",
+      "ingredients": null,
+      "keywords": ["soya", "salsa de soya"]
+    },
+    {
+      "sauce_id": "SAL-003",
+      "name": "Aderezo Chipotle",
+      "ingredients": null,
+      "keywords": ["chipotle", "aderezo chipotle", "aderezo de chipotle"]
+    },
+    {
+      "sauce_id": "SAL-004",
+      "name": "Sriracha",
+      "ingredients": null,
+      "keywords": ["sriracha", "siracha"]
+    }
+  ]
+}
